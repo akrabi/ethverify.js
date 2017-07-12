@@ -4,6 +4,7 @@ A simple node.js application to verify that your generate wallet keys are valid 
 ## Usage
 ```
 git clone https://github.com/akrabi/ethverify.js.git
+cd ethverify.js
 npm install
 npm start
 ```
